@@ -5,8 +5,8 @@
   "build": 596,
   "title": "Shadow Link 1.0",
   "changelog": [
-    "изменен интерва проверки обнов"
+    "Проверка обновлений теперь выполняется каждый час."
   ],
   "download_url": "https://ipastore.duckdns.org/?app=com.vkturnproxy.app",
-  "published_at": "2026-11-27T22:05:52Z"
+  "published_at": "2026-11-27T22:16:24Z"
 }
