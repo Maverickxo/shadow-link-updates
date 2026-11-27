@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "enabled": false,
+  "enabled": true,
   "version": "1.0",
-  "build": 594,
+  "build": 595,
   "title": "Shadow Link 1.0",
   "changelog": [
-    "Канал обновлений создан и ожидает следующего готового релиза."
+    "Доступна новая версия Shadow Link."
   ],
-  "download_url": null,
-  "published_at": "2026-11-27T13:15:00Z"
+  "download_url": "https://ipastore.duckdns.org/?app=com.vkturnproxy.app",
+  "published_at": "2026-11-27T21:07:55.452Z"
 }
